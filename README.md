@@ -2,7 +2,7 @@
 Gardenia is title of my capstone design project
 
 ## 2019-09-12
-[![slide](https://www.youtube.com/watch?v=wjBSWE8xi0E)](https://youtu.be/wjBSWE8xi0E)
+[![slide](https://img.youtube.com/vi/wjBSWE8xi0E/0.jpg)](https://youtu.be/wjBSWE8xi0E)
 
 ## 2019-10-06
 [![slide](https://img.youtube.com/vi/MKM18IDamlU/0.jpg)](https://youtu.be/MKM18IDamlU)
