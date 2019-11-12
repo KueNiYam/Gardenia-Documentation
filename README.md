@@ -1,7 +1,7 @@
-# Gardenia-Previews
-Gardenia is title of my capstone design project
+# Gardenia-Documentation
+**Capstone Design Project Gardenia**
 
-## 2019-09-12
+## 2019-11-12
 [![slide](https://img.youtube.com/vi/wjBSWE8xi0E/0.jpg)](https://youtu.be/wjBSWE8xi0E)
 
 ## 2019-10-06
