@@ -1,6 +1,9 @@
 # Gardenia-Documentation
 **Capstone Design Project Gardenia**
 
+> Programming by Choi Kuen-hwi <br>
+> Art by Min Yeon-hong
+
 ------
 # Video Clip
 
@@ -12,5 +15,9 @@
 
 ## 2019-09-12
 [![slide](https://img.youtube.com/vi/j4wtSjwIoLg/0.jpg)](https://youtu.be/j4wtSjwIoLg)
+
+------
+
+# Documentation
 
 ------
